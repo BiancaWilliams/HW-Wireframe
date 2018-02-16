@@ -1,4 +1,4 @@
-* {
+*{
     box-sizing: border-box;
     }
 {
@@ -48,13 +48,13 @@
     h1 {
         background: #ebebeb;
         padding: 5%;
-        color: #ffff;
+        color: #777;
         height: 55px
     }
     p {
         background: #ebebeb;
         padding: 5%;
-        color: #ffff;
+        color: #777;
         height: 55px  
     }
     
